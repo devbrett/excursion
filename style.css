@@ -26,5 +26,10 @@ color:  grey;
 
 .link--cta {
     font-size: 16px;
-    color:red;
+    color: aquamarine;
+}
+.camp-img { 
+    border-radius: 5%;
+    opacity: 90%;
+
 }
