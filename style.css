@@ -25,11 +25,18 @@ color:  grey;
 /* LINKS */
 
 .link--cta {
-    font-size: 16px;
+    font-size: 21px;
     color: aquamarine;
 }
 .camp-img { 
     border-radius: 5%;
     opacity: 90%;
+}
+/* FOOTER */
+.footer-copyright {
+    font-size: 21px;
+    color: grey;
+    text-align: right   ;
+
 
 }
